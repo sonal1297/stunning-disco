@@ -1,1 +1,1 @@
-# stunning-disco
+# It contains arm template to create ML workspace
